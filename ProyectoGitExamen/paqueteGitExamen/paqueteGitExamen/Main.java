@@ -6,5 +6,10 @@ public class Main {
 		System.out.println("Hola Mundo");
 
 	}
+	
+	public void muestraDosMensajes() {
+		System.out.println("Hola");
+		System.out.println("Mundo");
+	}
 
 }
